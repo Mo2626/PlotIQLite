@@ -1,0 +1,17 @@
+# virtuelle Umgebung
+hsluenv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Daten und Ausgaben (lokal behalten)
+data/*.xlsx
+output/*
+
+# Jupyter & temporäre Files
+*.ipynb_checkpoints
+*.log
